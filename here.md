@@ -1,0 +1,1 @@
+Create a python writing app that allows markdown fomatting and pure text like microsoft notepad.  it should indicate date a text file was created, modified and should dark and light theme options.
